@@ -1,8 +1,6 @@
 # Databel Customer Churn Analysis
 
-
-![](atliq_hardware_image.jpg)
-
+![132223](https://github.com/user-attachments/assets/b8bb9bb0-00a1-4f4f-9f84-d4ce6f3f2746)
 
 
 ## Introduction
@@ -26,15 +24,19 @@ The analysis aimed to provide insights into the following business questions:
   
 ## Modelling
 
-#add in here the power bi data model, if any
+![data_model](https://github.com/user-attachments/assets/fd8e7296-21d7-4f29-b9a9-f1a09ae769c9)
+
 
 ## Visualization:
 The report comprises of these 3 pages:
-1. Summary
-2. Customer Demograghic
-3. Subscription
+1. Summary:
+![dashboard_1](https://github.com/user-attachments/assets/cc75fef8-f8e9-45da-826a-b3d7ac622e10)
 
-#add in here the entire dashboard 
+2. Customer Demograghic:
+![dashboard_2](https://github.com/user-attachments/assets/18619d1c-1ba2-4a84-9f48-69a9c19dfc2a)
+
+3. Subscription:
+![dashboard_3](https://github.com/user-attachments/assets/f25fe726-6e4a-46a4-8fa3-0ab65a799927)
 
 
 ## Analysis
@@ -45,7 +47,7 @@ The monthly service subscription has a high churn rate of 46.3%, compared to the
 ## Conclusion and Recommendations:
 
 This is a link to a medium post for more details: 
-![Lorem Ipsum]()
+https://www.datascienceportfol.io/yole_amos/projects/9
 
 Thanks!
 
